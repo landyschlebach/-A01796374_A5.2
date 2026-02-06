@@ -1,0 +1,31 @@
+============================================================
+               Reporte de Ventas por Producto               
+============================================================
+Producto                  |   P. Unit. |  Cant. |      Total
+------------------------------------------------------------
+Rustic breakfast          | $    21.32 |      3 | $    63.96
+Sandwich with salad       | $    22.48 |      5 | $   112.40
+Raw legums                | $    17.11 |     21 | $   359.31
+Fresh stawberry           | $    28.59 |      5 | $   142.95
+Pears juice               | $    19.49 |      3 | $    58.47
+Green smoothie            | $    17.68 |     22 | $   388.96
+Cuban sandwiche           | $    18.50 |     11 | $   203.50
+Hazelnut in black cerami  | $    27.35 |      7 | $   191.45
+Tomatoes                  | $    26.03 |      2 | $    52.06
+Plums                     | $    19.18 |      4 | $    76.72
+Fresh blueberries         | $    21.01 |      7 | $   147.07
+Corn                      | $    13.55 |     19 | $   257.45
+French fries              | $    18.32 |      3 | $    54.96
+Ground beef meat burger   | $    11.73 |      4 | $    46.92
+Cherry                    | $    14.35 |      4 | $    57.40
+Homemade bread            | $    17.48 |      6 | $   104.88
+Smoothie with chia seeds  | $    25.26 |      3 | $    75.78
+Peaches on branch         | $    25.62 |      2 | $    51.24
+Pesto with basil          | $    18.19 |      2 | $    36.38
+------------------------------------------------------------
+                                Ventas Totales: $2,481.86
+============================================================
+Inicio de procesamiento: Feb 05, 2026 21:03:46
+Tiempo de ejecución: 00:00:00.0230
+Fin de procesamiento: Feb 05, 2026 21:03:46
+============================================================
